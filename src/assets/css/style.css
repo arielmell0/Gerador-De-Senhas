@@ -60,7 +60,7 @@ form button:hover {
 .senha-gerada {
   font-size: 2em;
   color: var(--primary-color);
-  margin: 40px 0;
+  margin: 15px 0;
 }
 
 input[type="checkbox"] {
@@ -72,4 +72,11 @@ button {
   display: block;
   margin: 40px 0;
   font-size: 1em;
+}
+
+.barra-progresso {
+  background-color: red;
+  width: 25%;
+  height: 8px;
+  margin-bottom: 20px;
 }
