@@ -1,4 +1,5 @@
 import geraSenha from './geradores';
+import barraProgresso from './barraProgresso';
 
 const senhaGerada = document.querySelector('.senha-gerada');
 const qtdCaracteres = document.querySelector('.qtd-caracteres');
@@ -11,7 +12,11 @@ const gerarSenha = document.querySelector('.gerar-senha');
 export default () => {
   gerarSenha.addEventListener('click', () => {
     senhaGerada.innerHTML = gera();
+
+
   });
+
+  barraProgresso()
 };
 
 function gera() {
