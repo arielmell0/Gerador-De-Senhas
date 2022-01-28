@@ -17,8 +17,9 @@ Projeto desenvolvido durante o **Curso de javascript/typescript** oferecido pelo
 - Adicionar letras minúsculas na sua senha
 - Adicionar números na sua senha
 - Adicionar símbolos na sua senha
- <br>
- - [x] Bônus feito por mim: Barra de progresso que indica a segurança da senha
+
+- [x] Bônus feito por mim: Barra de progresso que indica a segurança da senha
+
 
 
 ## 🎨 Layout
@@ -28,10 +29,18 @@ Projeto desenvolvido durante o **Curso de javascript/typescript** oferecido pelo
   <img alt="Gerador-de-senhas" src="https://s10.gifyu.com/images/gerador-senhas.gif" width="1080px">
 </p>
 
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Website**  ([Node](https://nodejs.org/)  +  [WebPack](https://webpack.js.org/))
+
+> Veja o arquivo  [package.json](https://github.com/arielmell0/Gerador-De-Senhas/blob/main/package.json)
+
 ## 🦸 Autor
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFATecIIyJX-w/profile-displayphoto-shrink_800_800/0/1640814567518?e=1648684800&v=beta&t=2lAVIltvzGT_gH5mZvGpzjQAjrS-lzbOqvCVO5dAchQ" width="100px;" alt="Foto-do-Autor">
  <br />
- <sub><b>Ariel Oliveira de Mello</b></sub>
+ <sub><b>Ariel Oliveira de Mello</b></sub></br>
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/Hellodarknes0?style=social)](https://twitter.com/Hellodarknes0)
 
