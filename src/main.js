@@ -1,3 +1,7 @@
+// Aumentar acessibilidade (ie 11, 10 e 9)
+import 'core-js/stable'
+import 'regenerator-runtime/runtime'
+
 import formGeraSenha from './modules/formGeraSenha';
 import './assets/css/style.css';
 
